@@ -66,24 +66,6 @@ USD isn't just for movies anymore. It's the composition layer for the physical w
   <img src="https://raw.githubusercontent.com/arxynehq/.github/main/profile/assets/architecture.svg" alt="Arxyne Architecture" width="680"/>
 </p>
 
-## Status
-
-- ✅ OpenUSD digital twin schema (51+ typed attributes, 6 composition layers)
-- ✅ Agentic CFD pipeline (OpenFOAM in Docker, autonomous agent loop)
-- ✅ Multi-domain: DrivAer sedan (Cd=0.275, 6.6% vs published) + ONERA M6 wing (Cd=0.017)
-- ✅ Product-type-aware sanity gates + auto-baseline management
-- ✅ Automated target assessment with product-agnostic competitor diffing
-- ✅ Convergence-based early stopping + stall detection
-- ✅ Provenance, validation, and engineering gate system
-- ✅ Solver registry (6 physics domains — aero active, 5 planned)
-- ✅ "Ask Programme X" — conversational AI queries across the digital twin
-- ✅ NVIDIA Omniverse integration (USD scene graph + auto-launch)
-- ✅ 867 tests (unit + integration, CI on every push)
-- ✅ 3 products: DrivAer Baseline, ARX Type-X (ONERA M6 wing), Ahmed Body
-- ✅ AI surrogates (NVIDIA DoMINO NIM — 30s inference vs 6hr CFD, validated ≤1.5%)
-- 🔜 Multi-physics (vehicle dynamics, structural)
-- 🔜 Manufacturing compilation layer
-
 ## The Vision
 
 Today: an engineer tells an agent "assess this wing at Cd ≤ 0.02" and the platform runs the loop — simulation, assessment, reporting — autonomously.
