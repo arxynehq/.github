@@ -5,16 +5,16 @@
 <h3 align="center">How Physical AI Fits Into the Design & Engineering Pipeline</h3>
 
 <p align="center">
-  <em>From design intent to digital twin — one continuous engineering loop.</em>
+  <em>From design intent to digital twin. One continuous engineering loop.</em>
 </p>
 
 ---
 
 ## What is Arxyne?
 
-Arxyne makes AI safe and useful for engineering — embedded into real workflows with governance, provenance, and physics validation built in. **OpenUSD-native, agentic, containerised.**
+Arxyne makes AI safe and useful for engineering. Embedded into real workflows with governance, provenance, and physics validation built in. **OpenUSD-native, agentic, containerised.**
 
-We don't build vehicles, robots, or aircraft. We give engineering teams **AI they can actually trust** — from first sketch to every mile driven or hour flown.
+We don't build vehicles, robots, or aircraft. We give engineering teams **AI they can actually trust**, from first sketch to every mile driven or hour flown.
 
 ## The Problem
 
@@ -30,11 +30,11 @@ Design Intent → Simulation → Validation → Manufacturing → Digital Twin �
       └────────────────────── Closed Loop ─────────────────────────────────────┘
 ```
 
-- **OpenUSD digital twins** — composable, versionable, diffable
-- **AI-assisted engineering** — agents handle orchestration, validation, traceability. Governed and auditable.
-- **Multi-domain** — ground vehicles, aircraft, any cyber-physical product. Same pipeline, different physics.
-- **Containerised solvers** — pluggable. Add a solver = add a container.
-- **Deploy anywhere** — workstation, data centre, on-prem, cloud. Your IP stays where you choose.
+- **OpenUSD digital twins** - composable, versionable, diffable
+- **AI-assisted engineering** - agents handle orchestration, validation, traceability. Governed and auditable.
+- **Multi-domain** - ground vehicles, aircraft, any cyber-physical product. Same pipeline, different physics.
+- **Containerised solvers** - pluggable. Add a solver = add a container.
+- **Deploy anywhere** - workstation, data centre, on-prem, cloud. Your IP stays where you choose.
 
 ## Architecture
 
