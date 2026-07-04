@@ -28,5 +28,5 @@
   
   <!-- Bottom: domains -->
   <rect x="40" y="230" width="640" height="60" fill="none" stroke="#666666" stroke-width="1.5" rx="8"/>
-  <text x="360" y="265" fill="#FFFFFF" font-size="16" font-weight="600" text-anchor="middle">Vehicles · Aircraft · Aerospace · Robotics · Marine</text>
+  <text x="360" y="265" fill="#FFFFFF" font-size="16" font-weight="600" text-anchor="middle">Vehicles · Aerospace · Robotics · Marine</text>
 </svg>
