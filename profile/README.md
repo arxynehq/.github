@@ -38,9 +38,7 @@ Design Intent → Simulation → Validation → Manufacturing → Digital Twin �
 
 ## Architecture
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arxynehq/.github/main/profile/assets/architecture.svg" alt="Arxyne Architecture" width="680"/>
-</p>
+The Arxyne Platform sits above four pillars — **Agents** (LLM orchestration), **Solvers** (containerised physics), **USD** (digital twins), and **Telemetry** (live data) — spanning automotive, aerospace, robotics, marine, and energy.
 
 ## The Vision
 
